@@ -1,0 +1,45 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "Creality Hyper PLA - Nero (Copilot) - VFR14",
+  "filament_settings_id": [
+    "Creality Hyper PLA - Nero (Copilot) - VFR14"
+  ],
+  "inherits": "fdm_filament_pla",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PLA"
+  ],
+  "nozzle_temperature": [
+    "202"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "205"
+  ],
+  "hot_plate_temp": [
+    "60"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "62"
+  ],
+  "fan_min_speed": [
+    "70"
+  ],
+  "filament_flow_ratio": [
+    "0.987"
+  ],
+  "filament_max_volumetric_speed": [
+    "14"
+  ],
+  "filament_retraction_length": [
+    "0.9"
+  ],
+  "filament_retraction_speed": [
+    "35"
+  ],
+  "filament_deretraction_speed": [
+    "30"
+  ]
+}

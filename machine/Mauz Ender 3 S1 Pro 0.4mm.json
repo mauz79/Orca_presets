@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Mauz Ender 3 S1 Pro 0.4mm",
+    "printable_area": [
+        "0x0",
+        "233x0",
+        "233x230",
+        "0x230"
+    ],
+    "printer_settings_id": "Mauz Ender 3 S1 Pro 0.4mm",
+    "version": "2.3.0.3"
+}

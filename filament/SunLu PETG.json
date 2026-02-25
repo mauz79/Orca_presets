@@ -1,0 +1,73 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#FF8040"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "filament_cost": [
+        "16"
+    ],
+    "filament_flow_ratio": [
+        "0.979"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "1.1"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "SunLu PETG"
+    ],
+    "filament_vendor": [
+        "SunLu"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_z_hop": [
+        "0.1"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "73"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "SunLu PETG",
+    "nozzle_temperature": [
+        "231"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "233"
+    ],
+    "overhang_fan_speed": [
+        "95"
+    ],
+    "pressure_advance": [
+        "0.06"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "slow_down_min_speed": [
+        "30"
+    ],
+    "version": "1.9.0.2"
+}

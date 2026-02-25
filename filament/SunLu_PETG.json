@@ -1,0 +1,72 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "SunLu PETG",
+  "filament_settings_id": [
+    "SunLu PETG"
+  ],
+  "inherits": "fdm_filament_petg",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PETG"
+  ],
+  "close_fan_the_first_x_layers": [
+    "2"
+  ],
+  "default_filament_colour": [
+    "#FF8040"
+  ],
+  "enable_pressure_advance": [
+    "1"
+  ],
+  "fan_max_speed": [
+    "80"
+  ],
+  "filament_cost": [
+    "16"
+  ],
+  "filament_flow_ratio": [
+    "0.979"
+  ],
+  "filament_max_volumetric_speed": [
+    "18"
+  ],
+  "filament_retraction_length": [
+    "1.1"
+  ],
+  "filament_retraction_speed": [
+    "30"
+  ],
+  "filament_vendor": [
+    "SunLu"
+  ],
+  "filament_wipe": [
+    "1"
+  ],
+  "filament_z_hop": [
+    "0.1"
+  ],
+  "filament_z_hop_types": [
+    "Normal Lift"
+  ],
+  "hot_plate_temp": [
+    "70"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "73"
+  ],
+  "nozzle_temperature": [
+    "231"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "233"
+  ],
+  "overhang_fan_speed": [
+    "95"
+  ],
+  "pressure_advance": [
+    "0.06"
+  ]
+}

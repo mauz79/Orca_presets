@@ -1,0 +1,61 @@
+{
+    "adaptive_pressure_advance_bridges": [
+        "0.016"
+    ],
+    "adaptive_pressure_advance_overhangs": [
+        "1"
+    ],
+    "compatible_printers": [
+        "Creality Ender-3 S1 Pro 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_deretraction_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0.78"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "SUNLU PLA+ - 250 g"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "61"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "64"
+    ],
+    "idle_temperature": [
+        "140"
+    ],
+    "inherits": "SUNLU PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU PLA+ - 250 g",
+    "nozzle_temperature": [
+        "202"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "207"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "temperature_vitrification": [
+        "80"
+    ],
+    "version": "2.3.0.3"
+}

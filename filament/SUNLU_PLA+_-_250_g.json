@@ -1,0 +1,48 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "SUNLU PLA+ - 250 g",
+  "filament_settings_id": [
+    "SUNLU PLA+ - 250 g"
+  ],
+  "inherits": "fdm_filament_pla",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PLA"
+  ],
+  "enable_pressure_advance": [
+    "1"
+  ],
+  "filament_deretraction_speed": [
+    "35"
+  ],
+  "filament_flow_ratio": [
+    "0.98"
+  ],
+  "filament_retraction_length": [
+    "0.78"
+  ],
+  "filament_retraction_speed": [
+    "35"
+  ],
+  "hot_plate_temp": [
+    "61"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "64"
+  ],
+  "idle_temperature": [
+    "140"
+  ],
+  "nozzle_temperature": [
+    "202"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "207"
+  ],
+  "pressure_advance": [
+    "0.036"
+  ]
+}

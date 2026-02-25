@@ -1,0 +1,48 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "eSUN PETG Gray (Copilot)",
+  "filament_settings_id": [
+    "eSUN PETG Gray (Copilot)"
+  ],
+  "inherits": "fdm_filament_petg",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PETG"
+  ],
+  "nozzle_temperature": [
+    "238"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "242"
+  ],
+  "hot_plate_temp": [
+    "75"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "78"
+  ],
+  "fan_min_speed": [
+    "25"
+  ],
+  "fan_max_speed": [
+    "60"
+  ],
+  "overhang_fan_speed": [
+    "85"
+  ],
+  "filament_flow_ratio": [
+    "0.975"
+  ],
+  "filament_retraction_length": [
+    "1.0"
+  ],
+  "default_filament_colour": [
+    "#909090"
+  ],
+  "filament_vendor": [
+    "eSUN"
+  ]
+}

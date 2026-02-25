@@ -1,0 +1,57 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "SunLu PLA+ (Copilot)",
+  "filament_settings_id": [
+    "SunLu PLA+ (Copilot)"
+  ],
+  "inherits": "fdm_filament_pla",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PLA"
+  ],
+  "nozzle_temperature": [
+    "212"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "215"
+  ],
+  "hot_plate_temp": [
+    "60"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "62"
+  ],
+  "fan_min_speed": [
+    "80"
+  ],
+  "filament_flow_ratio": [
+    "0.980"
+  ],
+  "filament_max_volumetric_speed": [
+    "13"
+  ],
+  "filament_retraction_length": [
+    "0.9"
+  ],
+  "filament_retraction_speed": [
+    "35"
+  ],
+  "filament_deretraction_speed": [
+    "30"
+  ],
+  "enable_pressure_advance": [
+    "1"
+  ],
+  "pressure_advance": [
+    "0.0300"
+  ],
+  "default_filament_colour": [
+    "#DDDDDD"
+  ],
+  "filament_vendor": [
+    "SunLu"
+  ]
+}

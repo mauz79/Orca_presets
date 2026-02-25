@@ -1,0 +1,67 @@
+{
+    "close_fan_the_first_x_layers": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "60"
+    ],
+    "filament_deretraction_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.988"
+    ],
+    "filament_max_volumetric_speed": [
+        "13.5"
+    ],
+    "filament_retraction_length": [
+        "0.9"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "Creality Hyper PLA – Nero (Copilot) – VFR14"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "filament_z_hop": [
+        "0.1"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "62"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Hyper PLA – Nero (Copilot) – VFR14",
+    "nozzle_temperature": [
+        "202"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.032"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "slow_down_min_speed": [
+        "40"
+    ],
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "filament",
+  "from": "user",
+  "version": "2.3.0.3",
+  "name": "Creality Hyper PLA - Bianco (Copilot) - VFR14",
+  "filament_settings_id": [
+    "Creality Hyper PLA - Bianco (Copilot) - VFR14"
+  ],
+  "inherits": "fdm_filament_pla",
+  "compatible_printers": [],
+  "compatible_printers_condition": "",
+  "filament_type": [
+    "PLA"
+  ],
+  "nozzle_temperature": [
+    "200"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "203"
+  ],
+  "hot_plate_temp": [
+    "60"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "62"
+  ],
+  "fan_min_speed": [
+    "75"
+  ],
+  "filament_flow_ratio": [
+    "0.990"
+  ],
+  "default_filament_colour": [
+    "#FFFFFF"
+  ]
+}
