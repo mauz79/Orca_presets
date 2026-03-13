@@ -1,0 +1,62 @@
+{
+    "compatible_printers": [],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "10"
+    ],
+    "fan_min_speed": [
+        "90"
+    ],
+    "filament_deretraction_speed": [
+        "30"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retraction_length": [
+        "0.9"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "Creality Hyper PLA – Nero GEM"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "62"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Hyper PLA – Nero GEM",
+    "nozzle_temperature": [
+        "202"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.032"
+    ],
+    "slow_down_min_speed": [
+        "30"
+    ],
+    "version": "2.3.0.3"
+}
