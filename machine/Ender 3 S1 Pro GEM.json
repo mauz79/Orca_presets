@@ -1,0 +1,27 @@
+{
+    "deretraction_speed": [
+        "35"
+    ],
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "START_PRINT\nBED_TEMP=[bed_temperature_initial_layer_single]\nEXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
+    "name": "Ender 3 S1 Pro GEM",
+    "nozzle_type": "hardened_steel",
+    "printable_area": [
+        "0x0",
+        "233x0",
+        "233x230",
+        "0x230"
+    ],
+    "printer_settings_id": "Ender 3 S1 Pro GEM",
+    "retraction_speed": [
+        "40"
+    ],
+    "version": "2.3.0.3",
+    "z_hop_types": [
+        "Slope Lift"
+    ]
+}
